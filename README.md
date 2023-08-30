@@ -7,6 +7,7 @@ EasyX图形库的官方网站:<https://easyx.cn/>
 前往EasyX图形库的[官方网站](https://easyx.cn/)，下载EasyX的安装包，然后依照指示安装到你的IDE中。如果你对EasyX不太了解，建议安装EasyX的帮助文件（或访问[帮助页面](https://docs.easyx.cn/zh-cn/intro)），以便在遇到问题时阅读或在空闲时学习。
 如果你使用的IDE不是Visual Studio系列，请查看[本教程](https://codebus.cn/bestans/easyx-for-mingw)
 > 简单实例
+
 新建一个空白项目，将FrameEasyX.h头文件添加到项目中，然后新建一个cpp文件。
 然后，写入以下代码：
 ```c++
